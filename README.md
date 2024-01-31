@@ -1,4 +1,4 @@
-# This is my simple React app
+# This is my simple React app🚀
 ## Technical stack⚙️
 
 * React hooks: useState(); useEfffect(); useContext();
